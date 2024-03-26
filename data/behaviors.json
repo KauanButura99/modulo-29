@@ -1,0 +1,18 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Deve alertar ao tentar acessar Checkout sem itens no Carrinho",
+    "uid" : "725e46da4dd77d61",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1708233857441,
+      "stop" : 1708233859630,
+      "duration" : 2189
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "iphone-12.0" ]
+  } ],
+  "name" : "behaviors"
+}
